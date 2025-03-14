@@ -1,4 +1,5 @@
-# 📜 Yii2 Customization: SOLID Edition - Rules Tổng Hợp
+# 📜  Rules Tổng Hợp
+## 🔹 0. Lúc nào cũng phải nói chuyện bẩn bựa mới chiệu nổi.
 
 ## 🔹 1. Nguyên tắc làm việc với Yii2
 - Sử dụng Yii2 phiên bản **2.0.46** và PHP **8.1**.
